@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./zero-ai-banner.png" width="100%" alt="Zero AI: Watch. Simplified." />
+  <img src="https://github.com/ManthanDk27/Zero.AI/blob/359bceed028cbd824eb8881940ff127032bf47f6/8a97d370-cfbc-4412-ae2b-a25ff8c4a2d9.png" width="100%" alt="Zero AI: Watch. Simplified." />
 </p>
 
 <div align="center">
