@@ -21,7 +21,7 @@ Zero AI is a streaming platform in the spirit of extension-driven apps like Clou
 ## 🖼️ Product Tour
 
 <p align="center">
-  <img src="./zero-ai-home.png" width="100%" alt="Zero AI home screen with AI Setup, Smart Suggestions and One-Click Play" />
+  <img src="https://github.com/ManthanDk27/Zero.AI/blob/f119ca5ac2c72f337a686b48a8a9eb6bf797dbc6/Zero%20AI%20Cinematic%20Streaming%20Dashboard.png" width="100%" alt="Zero AI home screen with AI Setup, Smart Suggestions and One-Click Play" />
 </p>
 <p align="center">
   <img src="./zero-ai-player.png" width="49%" alt="Zero AI player with Up Next, Related, Similar and For You" />
